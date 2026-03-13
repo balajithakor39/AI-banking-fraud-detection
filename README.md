@@ -32,3 +32,23 @@ FastAPI
 Scikit-learn
 SQLite
 Docker
+
+# simple installation step# AI Banking Fraud Detection System
+
+## Run Project
+
+### Install packages
+
+pip install -r requirements.txt
+
+### Run API
+
+uvicorn app.main:app --reload
+
+### Open API Docs
+
+http://localhost:8000/docs
+
+
+
+
