@@ -13,3 +13,21 @@ ai-banking-fraud-detection
 ├── requirements.txt
 ├── Dockerfile
 ├── README.md
+
+# AI Banking Fraud Detection System
+
+This project simulates a digital banking system with AI-based fraud detection.
+
+Features:
+- Account creation
+- Deposit transactions
+- AI fraud detection
+- REST API using FastAPI
+- Docker container support
+
+Tech Stack:
+Python
+FastAPI
+Scikit-learn
+SQLite
+Docker
